@@ -2,7 +2,7 @@
 
 🔭 Creación de una web responsive.
 
-🔗 [Web-Manage](https://mng-soymili.vercel.app/)
+🔗 [Web-Manage](https://mng.vercel.app/)
 
 
 ### Preview
